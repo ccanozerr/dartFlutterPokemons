@@ -1,6 +1,6 @@
 # pokemons
 
-Get pokemons using by an API and.
+Get pokemons using by an API.
 
 ## Getting Started
 
